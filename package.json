@@ -9,10 +9,9 @@
   "author": "Mykhailo Dorokhov",
   "license": "ISC",
   "dependencies": {
-    "@koa/router": "^12.0.0",
-    "joi": "^17.6.0",
     "koa": "^2.13.4",
-    "koa-bodyparser": "^4.3.0"
+    "koa-bodyparser": "^4.3.0",
+    "koa-joi-router": "^8.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
