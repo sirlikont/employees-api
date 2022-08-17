@@ -17,3 +17,6 @@ app.use(router2.middleware());
 app.listen(PORT, () =>
   console.log(`Server is running at http://localhost:${PORT}`)
 );
+
+const cors = require('@koa/cors');
+app.use(cors());

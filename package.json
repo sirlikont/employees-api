@@ -17,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "@koa-better-modules/joi-router": "^10.1.0",
+    "@koa/cors": "^3.3.0",
     "knex": "^2.2.0",
     "koa": "^2.13.4",
     "koa-bodyparser": "^4.3.0",
